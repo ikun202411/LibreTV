@@ -39,10 +39,10 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    // xiaomaomi: {
-    //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
-    //     name: '小猫咪资源',
-    // },
+     xiaomaomi: {
+         api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
+         name: '小猫咪资源',
+     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
@@ -148,22 +148,22 @@ const API_SITES = {
     //     name: '155资源',
     //     adult: true
     // },
-    // lsb: {
-    //     api: 'https://apilsbzy1.com',
-    //     name: 'lsb资源',
-    //     adult: true
-    // },
+     lsb: {
+         api: 'https://apilsbzy1.com/api.php/provide/vod',
+         name: 'lsb资源',
+         adult: true
+     },
     // huangcang: {
     //     api: 'https://hsckzy.vip',
     //     name: '黄色仓库',
     //     adult: true,
     //     detail: 'https://hsckzy.vip'
     // },
-    // yutu: {
-    //     api: 'https://yutuzy10.com',
-    //     name: '玉兔资源',
-    //     adult: true
-    // },
+     yutu: {
+         api: 'https://yutuzy10.com/api.php/provide/vod',
+         name: '玉兔资源',
+         adult: true
+     },
 
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
